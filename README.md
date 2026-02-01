@@ -24,10 +24,10 @@ Structure et Instabilité des Génomes (STRING)
 - Pablo Navarro
 
 ### Jury
-Elodie Laine (President)
-Emilie Elvira-Matelot
-Federica Batistini
-Vladimir Teif
+- Elodie Laine (President)
+- Emilie Elvira-Matelot
+- Federica Batistini
+- Vladimir Teif
 
 ---
 
